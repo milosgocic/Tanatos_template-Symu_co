@@ -1,0 +1,113 @@
+@media screen and (min-device-width: 320px) and (max-width: 480px) {
+   
+    .first-paragraph {width: 70%};
+    .tanatos strong, span {padding-left: 20px;}
+    .email-subscribe input {margin-left: 30px;} 
+    .sayhello h3 {padding-top: 30px;}
+    .sayhello p {padding-bottom: 30px;}
+    .opacity {text-align: center;}
+    .opacity img {text-align: center;}
+    .btn-header {margin-left: 20px;}
+    .img-align { text-align: center;}
+    .tanatos {margin-left: 10px;}
+    .menu {margin-right: 10px;}
+    .hireus {width: 100%;}
+    .icons {width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+    }
+    .app {font-size: 14px;}
+    .ap {padding: 15px;}
+    .menu-close-button {
+        top: 50px;
+        right: 30px;    
+    }
+    .left {
+    text-align: center;
+    padding: 10px 0 20px 0;
+    }
+    .fb {padding: 5px 12px;
+         margin-right: 2px;}
+    .tw {padding: 6px;
+        margin-right: 2px;}
+    .gp {padding: 5px 7px;
+        margin-right: 2px;}
+    .sd {padding: 5px 7px;
+        margin-right: 2px;}
+    .wp {padding: 5px 7px;
+        margin-right: 2px;}
+    .right {
+        text-align: center;
+        padding: 10px;
+    }
+}
+    
+
+
+@media screen and (min-device-width: 481px) and (max-device-width: 768px) {
+    .col-md-4 figure {text-align: center;}
+    .img-align { text-align: center;}
+    .email-subscribe input {margin-left: 40px;}
+    .sayhello h3 {padding-top: 50px;}
+    .sayhello p {padding-bottom: 50px;}
+    .opacity-picture{
+        display: block;
+        text-align: center;}
+    .hover-text {width: 355px;}
+    .hireus {width: 100%;}
+    .icons {width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;}
+    .menu-close-button {
+        right: 30px;
+    }
+    .left {
+    text-align: center;
+    padding: 10px 0 20px 0;
+    }
+    .right {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (min-device-width: 769px) and (max-device-width: 901px) {
+    .col-md-4 figure {text-align: center;}
+    .img-align {text-align: center;}
+    .opacity-pictures {
+        display: block;
+        text-align: center;
+    }
+    .hover-text {width: 355px}
+    .sayhello h3 {padding-top: 30px;}
+    .sayhello p {padding-bottom: 30px;}
+    .hireus {width: 30%;}
+    }
+ 
+    
+@media screen and (min-device-width: 901px) and (max-device-width: 990px) {
+    .hover-text {width: 50%;}
+    .opacity-picture{
+        display: block;
+        text-align: center;
+    }
+    .img-align { text-align: center;}
+    .hireus {width: 30%;}
+    .sayhello h3 {padding-top: 30px;}
+    .sayhello p {padding-bottom: 30px;}
+}
+
+@media screen and (min-device-width: 991px) and (max-device-width: 994px) {
+    .hover-text {width: 50%;}
+    .opacity-picture{
+        display: block;
+        text-align: center;
+    }
+    .img-align { text-align: center;}
+    .hireus {width: 30%;}
+    .sayhello h3 {padding-top: 30px;}
+    .sayhello p {padding-bottom: 30px;}
+    
+}
